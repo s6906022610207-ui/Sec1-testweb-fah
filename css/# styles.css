@@ -1,0 +1,36 @@
+body {
+  background-color:black ;
+}
+h1 {
+  color: white ;
+  font-family: Verdana;
+  font-size: 100 px;
+}
+p {
+  color: greenyellow;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60 px;
+}
+
+a:link {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
